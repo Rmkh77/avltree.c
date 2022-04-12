@@ -1,5 +1,5 @@
 # avl tree program
-#operations can be performed are:\n
+#operations can be performed are:
 #-->insertion
 #-->deletion
 #-->height of the tree
